@@ -2,6 +2,9 @@
 
 Respository (Repo)
 Branch
+Conflict
+Local 
+Remote
 # Commands 
 
 - git config --global user.name ""
@@ -19,3 +22,4 @@ Branch
 - git checkout -b {branch name} -> create new branch
 - git merge {branch name}
 - git branch -d {branch name}
+- git push
